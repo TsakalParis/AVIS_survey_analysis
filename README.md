@@ -1,7 +1,7 @@
 # AVIS_survey_analysis
 Survey about Asynchronous Video Interviews
 
-This is a project where i did the statistical analysis for a clients thesis in managment and business administration. The survey was created by the client and was sent to people who are currently looking for a job. The data has been translated to english. Part of the content is what the client requested.
+This is a project where i did the statistical analysis for a clients thesis in managment and business administration. The survey was created by the client and was sent to people who are currently looking for a job. The data has been translated to english. Part of the content is what the client requested. The base of this case study is to see if there is any correlation between the following categories: "Have you previously given an asynchronous video interview to an organization?", "Perceived_Ease_of_Use", "Perceived_Usefulness", "General_Attractiveness", "Behavioural_Intentions", "Prestige". Of course correlation does not mean causation!
 
 This analysis contains the following steps:
 -Process dataframe
